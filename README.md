@@ -1,2 +1,1 @@
-# Kurs-IT
-kurs IT
+https://godofoni.github.io/goit-markup-hw-01/
